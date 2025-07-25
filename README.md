@@ -1,4 +1,3 @@
-# SecureLEDs
-LED project with embedded technologies
+# Embedded Password System Project
 
-https://www.youtube.com/watch?v=JC2Sf3PKna4
+Currently working
