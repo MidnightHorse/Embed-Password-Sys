@@ -1,8 +1,8 @@
-/* Austin Haugland && ahaug004@ucr.edu
- * Discussion Section: 24
- * Assignment: Custom Lab Final Demo
+/* Austin Haugland
+ * Embedded Password System
+ * Requires Arduino wiring
  * I acknowledge all content contained herein, excluding template or example code, is my own original work.
- * Demo video Link: https://www.youtube.com/watch?v=JC2Sf3PKna4
+ * Austin
  */
 #include <LiquidCrystal.h>
 #include <Keypad.h>
