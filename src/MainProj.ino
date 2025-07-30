@@ -1,6 +1,6 @@
 /* Austin Haugland
  * Embedded Password System
- * Requires Arduino wiring
+ * Requires Arduino and physical wiring to the hardware
  * I acknowledge all content contained herein, excluding template or example code, is my own original work.
  * Austin
  */
